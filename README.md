@@ -55,5 +55,7 @@ git clone https://github.com/nathalia0902/Projeto-Final-de-Microcontroladores
 ## Links Úteis
 
 - [Datasheet AHT10 (PDF)](https://server4.eca.ir/eshop/AHT10/Aosong_AHT10_en_draft_0c.pdf)
+- [Datasheet LDR (PDF)](https://components101.com/sites/default/files/component_datasheet/LDR%20Datasheet.pdf)
+- [Datasheet LDR (PDF)](https://components101.com/resistors/ldr-datasheet)
 - [Documentação STM32 HAL](https://www.st.com/en/embedded-software/stm32cube-mcu-packages.html)
 - [STM32CubeIDE Download](https://www.st.com/en/development-tools/stm32cubeide.html)
