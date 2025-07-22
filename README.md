@@ -36,7 +36,7 @@ Este projeto tem como objetivo automatizar o controle de ventilação e ilumina�
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/usuario/projeto-automatizacao-sala.git
+git clone https://github.com/nathalia0902/Projeto-Final-de-Microcontroladores
 ```
 
 2. Abra o projeto no STM32CubeIDE
